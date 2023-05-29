@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="380" height="260" />
 </div>
 
@@ -15,7 +15,7 @@
 
 
 - 📫 How to reach me: 
-- <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=august.colonna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> or  <a href="https://www.linkedin.com/in/august-colonna/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+- <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=august.colonna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://www.linkedin.com/in/august-colonna/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
 
 
