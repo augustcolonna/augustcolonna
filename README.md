@@ -15,7 +15,7 @@
 
 
 - 📫 How to reach me: 
-- august.colonna@gmail.com or  <a href="https://www.linkedin.com/in/august-colonna/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+- <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=august.colonna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> or  <a href="https://www.linkedin.com/in/august-colonna/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
 
 
