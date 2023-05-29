@@ -10,16 +10,16 @@
 - Before bootcamp, I was learning to code independently via various methods (CodeCademy, FreeCodeCamp, Youtube tutorials, Udemy)
 - Worked in sales for 5 years for 2 start up's:
 <div>
-<a href="https://www.podium.com/"><img src="https://play-lh.googleusercontent.com/a8u4UugYXSKtgvsOErXF-_aoBxBAC7j0HjYVpHRMkvzBgOyUbPmrvOATlKKkRsg7ww" alt="Podium" width="40" height="40" /></a><a href="https://www.shopmonkey.io/"><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ededc5b2-a6e5-45b9-84dc-e56166743460.png" width="40" height="40" alt="Shopmonkey"/></a>
+  <a href="https://www.podium.com/"><img src="https://play-lh.googleusercontent.com/a8u4UugYXSKtgvsOErXF-_aoBxBAC7j0HjYVpHRMkvzBgOyUbPmrvOATlKKkRsg7ww" alt="Podium" width="40" height="40" /></a>
+  <a href="https://www.shopmonkey.io/"><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ededc5b2-a6e5-45b9-84dc-e56166743460.png" width="40" height="40" alt="Shopmonkey"/></a>
 </div>
--Originally from the US 🇺🇸, now live in Germany 🇩🇪
+
 
 ### 📫 How to reach me: 
 <div>
-<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=august.colonna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/august-colonna/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-</a>
+  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=august.colonna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/august-colonna/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
 </div>
-
 
 ### 🌱 I’m currently learning:
 <div>
