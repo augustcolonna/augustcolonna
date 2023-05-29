@@ -6,6 +6,7 @@
 
 ### About Me:
 - :man_student: Just graduated from <a href="https://www.ironhack.com/de/en/remote?utm_source=google&utm_medium=cpc&utm_campaign=RMTEU_Germany_Global_Search_Brand_EN&utm_content=search-brand&utm_term=ironhack&gad=1&gclid=Cj0KCQjwmtGjBhDhARIsAEqfDEfacRT7NZEzOR8tcnck7iJXlt_FdY8bTPjsb9a1DyLHET56VmM78bgaAt7_EALw_wcB">IronHack</a> Bootcamp!
+- Originally from the US 🇺🇸, now live in Germany 🇩🇪
 - Before bootcamp, I was learning to code independently via various methods (CodeCademy, FreeCodeCamp, Youtube tutorials, Udemy)
 - Worked in sales for 5 years for 2 start up's:
 <div>
