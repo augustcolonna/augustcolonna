@@ -22,5 +22,5 @@
 </div>
 
 
-<img src="https://blog.shiftasia.com/content/images/2022/05/mern-stack.jpg" width="200" height="100" />
+
 
