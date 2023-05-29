@@ -9,7 +9,7 @@
 - Before bootcamp, I was learning to code independently via various methods (CodeCademy, FreeCodeCamp, Youtube tutorials, Udemy)
 - Worked in sales for 5 years for 2 start up's:
 <div>
-<a href="https://www.podium.com/"><img src="https://play-lh.googleusercontent.com/a8u4UugYXSKtgvsOErXF-_aoBxBAC7j0HjYVpHRMkvzBgOyUbPmrvOATlKKkRsg7ww" alt="Podium" width="40" height="40" /></a> <h1>AND<h1> <a href="https://www.shopmonkey.io/"><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ededc5b2-a6e5-45b9-84dc-e56166743460.png" width="40" height="40" alt="Shopmonkey"/></a>
+<a href="https://www.podium.com/"><img src="https://play-lh.googleusercontent.com/a8u4UugYXSKtgvsOErXF-_aoBxBAC7j0HjYVpHRMkvzBgOyUbPmrvOATlKKkRsg7ww" alt="Podium" width="40" height="40" /></a><a href="https://www.shopmonkey.io/"><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ededc5b2-a6e5-45b9-84dc-e56166743460.png" width="40" height="40" alt="Shopmonkey"/></a>
 </div>
 
 ### 📫 How to reach me: 
