@@ -3,7 +3,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="380" height="260" />
 </div>
-
+<a href="https://www.linkedin.com/in/august-colonna/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
 - 🔭 I’m currently working on refining my skills that I learned during my intensive bootcamp in order to be prepared for my first job!
 - 🌱 I’m currently learning ...
 <div>
@@ -13,10 +14,8 @@
 </div>
 
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
+- august.colonna@gmail.com
+- 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
