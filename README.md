@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="480" height="360"/>
+  <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="280" height="160"/>
 </div>
 
 - 🔭 I’m currently working on refining my skills that I learned during my intensive bootcamp in order to be prepared for my first job!
