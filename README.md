@@ -1,11 +1,14 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="380" height="260" border-radius"5px"/>
+  <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="380" height="260" />
 </div>
 
 - 🔭 I’m currently working on refining my skills that I learned during my intensive bootcamp in order to be prepared for my first job!
 - 🌱 I’m currently learning ...
+<div align="center">
+  <img src="https://blog.shiftasia.com/content/images/2022/05/mern-stack.jpg" width="200" height="100" />
+</div>
 
 
 - 👯 I’m looking to collaborate on ...
