@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on refining my skills that I learned during my intensive bootcamp in order to be prepared for my first job!
 - 🌱 I’m currently learning ...
-<div align="center">
+<div>
   <img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" width="100" height="100" />
   <img src="https://cloud2data.com/wp-content/uploads/2023/01/HTML-CSS-Review.png" width="100" height="100" />
   <img src="https://blog.shiftasia.com/content/images/2022/05/mern-stack.jpg" width="200" height="100" />
