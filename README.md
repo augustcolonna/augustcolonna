@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-<!--
-**augustcolonna/augustcolonna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:-->
+
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 - 🔭 I’m currently working on refining my skills that I learned during my intensive bootcamp in order to be prepared for my first job!
 - 🌱 I’m currently learning ...
-![image](https://github.com/augustcolonna/augustcolonna/assets/106168760/b7a6ad12-2327-4fb5-95d2-692adddb6cfa)
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
