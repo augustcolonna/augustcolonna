@@ -3,12 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="380" height="260" />
 </div>
-<div align="center" >
-  <a href="https://www.linkedin.com/in/august-colonna/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-</a>
-  </div>
 
-- 🔭 I’m currently working on refining my skills that I learned during my intensive bootcamp in order to be prepared for my first job!
 - 🌱 I’m currently learning ...
 <div>
   <img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" width="100" height="100" />
@@ -17,8 +12,10 @@
 </div>
 
 
+
+
 - 📫 How to reach me: 
-- august.colonna@gmail.com
-- 
-- 😄 Pronouns: ...
+- august.colonna@gmail.com or  <a href="https://www.linkedin.com/in/august-colonna/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
+
 
